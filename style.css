@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .heading {
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: rgba(0, 0, 255, 0.217);
+    border-radius: 10px;
+  }
+  .work-experience, .personal-projects, .education, .skills {
+    margin-bottom: 30px;
+  }
+  .section-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .project {
+    margin-bottom: 10px;
+  }
+  .project a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  .project a:hover {
+    text-decoration: underline;
+  }
